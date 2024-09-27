@@ -4,12 +4,14 @@
  */
 package frame;
 
+import java.awt.Image;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
+import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
@@ -73,6 +75,10 @@ public class frame extends javax.swing.JFrame {
     public frame() {
         initComponents();
          setproductlist();
+         this.setTitle("ProductMangement System");
+         ImageIcon icon=new ImageIcon("D:\\front end  work\\ProductMang\\src\\pos\\assit\\pos-logo-drebbble_4x.jpg");
+         Image image=icon.getImage();
+         this.setIconImage(image);
     }
 
     /**

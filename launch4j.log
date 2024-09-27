@@ -1,0 +1,36 @@
+
+
+Version:	3.50
+CmdLine:	D:\front end  work\ProductMang\Product.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\front end  work\ProductMang\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\ABDUL MOIZ\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Users\ABDUL MOIZ\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\bin;C:\Program Files\Git\cmd;C:\Users\ABDUL MOIZ\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\bin;C:\Users\ABDUL MOIZ\AppData\Local\Microsoft\WindowsApps;C:\Users\ABDUL MOIZ\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ABDUL MOIZ\AppData\Local\GitHubDesktop\bin;C:\Users\ABDUL MOIZ\AppData\Roaming\npm;C:\Program Files\Java\jdk-22\bin
+JRE paths:	C:\Users\ABDUL MOIZ\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\nodejs\;C:\Users\ABDUL MOIZ\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\bin;C:\Program Files\Git\cmd;C:\Users\ABDUL MOIZ\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\bin;C:\Users\ABDUL MOIZ\AppData\Local\Microsoft\WindowsApps;C:\Users\ABDUL MOIZ\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ABDUL MOIZ\AppData\Local\GitHubDesktop\bin;C:\Users\ABDUL MOIZ\AppData\Roaming\npm;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Users\ABDUL MOIZ\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Users\ABDUL MOIZ\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\ABDUL MOIZ\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\bin\javaw.exe (not found)
+Check launcher:	C:\Users\ABDUL MOIZ\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\ABDUL MOIZ\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\ABDUL MOIZ\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Users\ABDUL MOIZ\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "D:\front end  work\ProductMang\Product.exe"
+Args length:	49/32768 chars
+Exit code:	0
